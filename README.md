@@ -95,7 +95,7 @@ kubectl create namespace workshop
 Switch to this namespace :
 
 ```
-kns workshop
+kubens workshop
 ```
 
 Deploy the helm chart :
