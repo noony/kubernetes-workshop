@@ -6,7 +6,7 @@ Install minikube : please follow steps [here](https://minikube.sigs.k8s.io/docs/
 
 Install vegeta : installation guide [here](https://github.com/tsenart/vegeta?tab=readme-ov-file#install)
 
-
+kubectx / kubens : installation guide [here](https://github.com/ahmetb/kubectx?tab=readme-ov-file#installation)
 
 ---
 
