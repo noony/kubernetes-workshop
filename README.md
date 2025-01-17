@@ -126,6 +126,12 @@ service:
   port: 80
 ```
 
+deploy it with :
+
+```
+helm upgrade workshop .
+```
+
 Then start a tunnel to minikube to expose the kubernetes service to your local machine : 
 
 ```
